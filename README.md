@@ -1,6 +1,6 @@
 # Notion Summarizer README
 
-※ https://www.notion.so/Notion-Summarizer-README-eb1b3482bfa549fb81c39b0ba5b1f197?pvs=4 こちらにこのREADMEと同様のものをNotionのページで用意しています。こちらの方が見やすいです。
+※ https://www.notion.so/Notion-Summarizer-README-eb1b3482bfa549fb81c39b0ba5b1f197?pvs=4 こちらにこのREADMEと同様のものをNotionのページで用意しています。こちらの方が見やすいです。　　
 **※必ず注意事項を理解した上で使用してね。責任は一切持ちません。APIキーを使いすぎるとお金がかかるので注意しましょう**
 
 ※普通に行けば全体で15-20分くらいでセットアップが完了します。
